@@ -1,0 +1,68 @@
+service provider
+test1@gmail.com
+Test1@9923
+
+test2@gmail.com
+Test2@9923
+
+
+test3@gmail.com
+Test3@9923
+
+#	First Name	Last Name	Email	Phone	Password	Role
+1	Manish	Patil	manish.patil@gmail.com
+	9876543210	Test@123	Customer
+2	Rahul	Sharma	rahul.sharma@gmail.com
+	9123456789	RahulSharma@123	super admin
+3	Neha	Verma	neha.verma@gmail.com
+	9988776655	Neha@123	Customer
+4	Amit	Singh	amit.singh@gmail.com
+	9001122334	Amit@123	Provider
+5	Pooja	Mehta	pooja.mehta@gmail.com
+	9898989898	Pooja@123	Customer
+6	Suresh	Kumar	suresh.kumar@gmail.com
+	9345678901	Suresh@123	Service Admin
+7	Riya	Joshi	riya.joshi@gmail.com
+	9765432109	Riya@123	Customer
+8	Ankit	Yadav	ankit.yadav@gmail.com
+	9012345678	Ankit@123	Provider
+9	Kavita	Rao	kavita.rao@gmail.com
+	9871209876	Kavita@123	Service Admin
+10	Admin	Master	master.admin@gmail.com
+	9990001111	Admin@123	Super Admin
+
+
+
+
+
+
+	Customers:
+
+alex.customer@example.com / 9001000001 / Local@1001 / Alex Fernandez (Mumbai, Maharashtra)
+bina.customer@example.com / 9001000002 / Local@1002 / Bina Kapoor (New Delhi, Delhi)
+chirag.customer@example.com / 9001000003 / Local@1003 / Chirag Patel (Ahmedabad, Gujarat)
+divya.customer@example.com / 9001000004 / Local@1004 / Divya Reddy (Hyderabad, Telangana)
+esha.customer@example.com / 9001000005 / Local@1005 / Esha Singh (Jaipur, Rajasthan)
+
+Service Providers:
+
+ishan.provider@example.com / 9002000001 / Local@2001 / SparkClean Services (GST 27SPKCL0001Z5, PAN SPKPM0001A)
+jyoti.provider@example.com / 9002000002 / Local@2002 / VoltFix Electricians (GST 29VLTFX0002Z9, PAN VLTJP0002B)
+karan.provider@example.com / 9002000003 / Local@2003 / PlumbSure Experts (GST 27PLMSR0003Z4, PAN PLMKR0003C)
+lata.provider@example.com / 9002000004 / Local@2004 / Appliance Care Gurus (GST 19APLCG0004Z1, PAN APLML0004D)
+manoj.provider@example.com / 9002000005 / Local@2005 / Renova Painters (GST 04RNVPN0005Z8, PAN RNVVM0005E)
+Service Admins:
+
+mahesh.service@example.com / 9004000001 / Local@4001 / Mahesh Kulkarni (North Operations)
+nirali.service@example.com / 9004000002 / Local@4002 / Nirali Shah (West Operations)
+omkar.service@example.com / 9004000003 / Local@4003 / Omkar Banerjee (East Operations)
+prisha.service@example.com / 9004000004 / Local@4004 / Prisha Menon (South Operations)
+qadir.service@example.com / 9004000005 / Local@4005 / Qadir Ali (Central Operations)
+Super Admins:
+
+raina.super@example.com / 9005000001 / Local@5001 / Raina Deshpande (Western region oversight)
+sameer.super@example.com / 9005000002 / Local@5002 / Sameer Khan (Provider compliance)
+tanvi.super@example.com / 9005000003 / Local@5003 / Tanvi Chopra (Customer experience)
+udit.super@example.com / 9005000004 / Local@5004 / Udit Singla (Finance and settlements)
+varsha.super@example.com / 9005000005 / Local@5005 / Varsha Naidu (Platform reliability)
+GPT-5-Codex (Preview) • 1x
