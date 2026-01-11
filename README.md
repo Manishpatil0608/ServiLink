@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local Services Finder Platform
 
 End-to-end platform enabling customers to discover, book, and pay for local services with provider onboarding, role-based administration, and comprehensive support tooling.
@@ -36,3 +37,6 @@ End-to-end platform enabling customers to discover, book, and pay for local serv
 - Keep .env files out of version control.
 - Password reset endpoints exist at `/auth/password/forgot` and `/auth/password/reset`; in development the API returns the raw reset token to simplify testing before SMTP is configured.
 - Services now include a tax rate column; re-run the latest migrations before seeding so dev data backfills automatically.
+=======
+# servilink
+>>>>>>> 6add346bd6a5791dca931bd2ec0ad18f66f0d7ea
